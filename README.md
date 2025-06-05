@@ -4,11 +4,12 @@ Sou desenvolvedor e estudante de programação, sempre buscando expandir meus co
 
 Tecnologias com as Quais Trabalho
 ---------------------------------
-Backend: Node.js, Express, Sequelize, PHP
+Linguagens de Programação: JAVA, C#, PHP, JAVASCRIPT
+Backend: Spring Boot, Node.js, Laravel, Express, Sequelize
 
-Banco de Dados: MySQL, SQLite, Mongo DB
+Banco de Dados: MySQL, Postgres, SQLite, Mongo DB
 
-Frontend: HTML, CSS, JavaScript (React e outros frameworks)
+Frontend: HTML, CSS, JavaScript (React e Nextjs)
 
 Ferramentas: Git, Docker, VS Code
 
