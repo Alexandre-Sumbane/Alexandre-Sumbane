@@ -8,7 +8,7 @@ Linguagens de Programação: JAVA, C#, PHP, JAVASCRIPT
 
 Backend: Spring Boot, Node.js, Laravel, Express, Sequelize
 
-Banco de Dados: MySQL, Postgres, SQLite, Mongo DB
+Banco de Dados: MySQL, Postgres, SQLite, Mongo DB, Firebase
 
 Frontend: HTML, CSS, JavaScript (React e Nextjs)
 
